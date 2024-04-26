@@ -13,10 +13,10 @@
 
 ### Mapped
 
-|                 |                  |                  |                   |
-| --------------- | ---------------- | ---------------- | ----------------- |
-| +1<sup>o</sup>      | +0.1<sup>o</sup>     | +0.01<sup>o</sup>    | Set as 0<sup>o</sup>  |
-| -1<sup>o</sup>      | -0.1<sup>o</sup>     | -0.01<sup>o</sup>    | Set as 90<sup>o</sup> |
-| Go to 0<sup>o</sup> | Go to 90<sup>o</sup> | Bring XY Tower   | Home              |
-| Home (z Axis)   | +0.1m (z Axis) | -0.1m (z Axis) | Quick Stop        |
+|                     |                      |                   |                       |
+| ------------------- | -------------------- | ----------------- | --------------------- |
+| +1<sup>o</sup>      | +0.1<sup>o</sup>     | +0.01<sup>o</sup> | Set as 0<sup>o</sup>  |
+| -1<sup>o</sup>      | -0.1<sup>o</sup>     | -0.01<sup>o</sup> | Set as 90<sup>o</sup> |
+| Go to 0<sup>o</sup> | Go to 90<sup>o</sup> | Bring XY Tower    | Home                  |
+| Home (z Axis)       | +0.1m (z Axis)       | -0.1m (z Axis)    | Quick Stop            |
 
